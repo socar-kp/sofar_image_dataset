@@ -12,7 +12,7 @@ If you have any inquiries on this dataset, please raise Issues on this repositor
 
 ## Pair of Paper & Utilized Dataset
 
-1. Towards an Efficient ML System: Unveiling a Trade-off between Task Accuracy and Engineering Efficiency in a Large-scale Car Sharing Platform
+Paper 1. Towards an Efficient ML System: Unveiling a Trade-off between Task Accuracy and Engineering Efficiency in a Large-scale Car Sharing Platform
 ```
 SOFAR_DATASET
 CAR_DEFECT_RECOGNITION
@@ -20,12 +20,12 @@ CAR_DIRT_RECOGNITION
 MULTI-LABELABLE-SAMPLES
 ```
 
-2. Is Meta-Learning Always Necessary?: A Practical ML Framework Solving Novel Tasks at Large-scale Car Sharing Platform
+Paper 2. Is Meta-Learning Always Necessary?: A Practical ML Framework Solving Novel Tasks at Large-scale Car Sharing Platform
 ```
 SOFAR_DATASET
 ```
 
-3. Discovering the Effectiveness of Pre-Training for Image Recognition in a Large-scale Car-Sharing Platform
+Paper 3. Discovering the Effectiveness of Pre-Training for Image Recognition in a Large-scale Car-Sharing Platform
 ```
 CAR_DEFECT_RECOGNITION
 CAR_MODEL_DATASET
@@ -39,34 +39,35 @@ Please note that we did not upload above papers into the public website (i.e., A
 ```shell
 /datasets
 |-- /SOFAR_DATASET
-    |-- 0_NORMAL
-    |-- 1_DEFECT
-    |-- 2_DIRT
-    |-- 3_BUBBLE_WASH
-    |-- 4_CARS_INSIDE_OF_THE_WASHING_MACHINE
-    |-- 5_DASHBOARD
-    |-- 6_CUP_HOLDER
-    |-- 7_GLOVEBOX
-    |-- 8_WASHER_FLUID
-    |-- 9_SEAT
+    |-- /0_NORMAL
+    |-- /1_DEFECT
+    |-- /2_DIRT
+    |-- /3_BUBBLE_WASH
+    |-- /4_CARS_INSIDE_OF_THE_WASHING_MACHINE
+    |-- /5_DASHBOARD
+    |-- /6_CUP_HOLDER
+    |-- /7_GLOVEBOX
+    |-- /8_WASHER_FLUID
+    |-- /9_SEAT
 
-|-- CAR_DEFECT_RECOGNITION
-    |-- 0_NORMAL
-    |-- 1_DEFECT
+|-- /CAR_DEFECT_RECOGNITION
+    |-- /0_NORMAL
+    |-- /1_DEFECT
 
-|-- CAR_DIRT_RECOGNITION
-    |-- 0_NORMAL
-    |-- 1_DIRT
+|-- /CAR_DIRT_RECOGNITION
+    |-- /0_NORMAL
+    |-- /1_DIRT
 
-|-- CAR_MODEL_DATASET
-    |-- 0_KIA_RAY
-    |-- 1_SEMICISCO
-    |-- 2_KIA_SELTOS
-    |-- 3_BENZ_EQC
-    |-- 4_HYUNDAI_CARNIVAL
-    |-- 5_SSANGYONG_TIVOLI
+|-- /CAR_MODEL_DATASET
+    |-- /0_KIA_RAY
+    |-- /1_SEMICISCO
+    |-- /2_KIA_SELTOS
+    |-- /3_BENZ_EQC
+    |-- /4_HYUNDAI_CARNIVAL
+    |-- /5_SSANGYONG_TIVOLI
 
-|-- MULTI-LABELABLE-SAMPLES
+|-- /MULTI-LABELABLE-SAMPLES
 ```
 
 ## For a Full-Access to the Dataset
+Please fill in the form https://forms.gle/FSM2aZG8y6HW79zA8 to acquire a full access to the dataset. After we check your request, we will send you an URL to download the dataset.
